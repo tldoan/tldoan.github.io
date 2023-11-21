@@ -86,7 +86,7 @@ author:
   location         : "San Francisco"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=UYO_Vj4AAAAJ&hl=en"
-  email            :
+  email            : "doan.tl90@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -172,17 +172,8 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
     permalink: /:collection/:path/
 
 
