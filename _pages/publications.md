@@ -24,7 +24,7 @@ _[CoLLAs 2023]_ : **Doan, T.**;  Mirzadeh, I. ; Farajtabar, M.; Continual Learni
 
 _[JAIR 2022]_ : **Doan, T.**\*; Mazoure, B.\*; Pineau, J.; Precup,  D.; Rabusseau, G.; Low-Rank Representation of Reinforcement Learning Policies. 
 
-_[AISTATS 2021]_ : **Doan, T.**; Bennani, M.; Bogdan, M.; Rabusseau, G.; Alquier, P., A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix 
+_[AISTATS 2021]_ : **Doan, T.**; Bennani, M.; Bogdan, M.; Rabusseau, G.; Alquier, P., A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix. 
 
 _[ICLR 2021]_ : Jeon, W; Chen-Yan, S.; Barde, P.; **Doan, T.**;  Nowrouzezahrai, D.; Pineau, J.; Regularized Inverse Reinforcement Learning. 
 
@@ -32,6 +32,6 @@ _[NeurIPS 2020]_ : Mazoure B.; Tachet des Combes R.; **Doan, T.**; Bachman P.; H
 
 _[CoRL 2019]_ : **Doan, T.**\*; Mazoure, B.\*; Durand, A.; Hjelm, R D.; Pineau, J.; Leveraging exploration in off-policy algorithms via normalizing flows. 
 
-_[ICML 2019]_ : Monteiro, J.; Albuquerque, I., **Doan, T.**; Considine B., Falk T., Mitliagkas I.; Multi-objective training of Generative Adversarial Networks with multiple discriminators  
+_[ICML 2019]_ : Monteiro, J.; Albuquerque, I., **Doan, T.**; Considine B., Falk T., Mitliagkas I.; Multi-objective training of Generative Adversarial Networks with multiple discriminators.  
 
-_[AAAI 2019]_ : **Doan, T.**; Monteiro, J.; Albuquerque, I.; Mazoure, B.; Durand, A.; Hjelm, R D.; Pineau, J. On-line Adaptative Curriculum Learning for GANs. , 2019. 
+_[AAAI 2019]_ : **Doan, T.**; Monteiro, J.; Albuquerque, I.; Mazoure, B.; Durand, A.; Hjelm, R D.; Pineau, J. On-line Adaptative Curriculum Learning for GANs. 
