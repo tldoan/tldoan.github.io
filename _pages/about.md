@@ -14,8 +14,8 @@ News
 ======
 * [UP-DP: Unsupervised Prompt Learning for Data Pre-Selection with Vision-Language Models](https://arxiv.org/abs/2307.11227) accepted  @ Neurips 2023
 * [GradOrth: A Simple yet Efficient Out-of-Distribution Detection with Orthogonal Projection of Gradients](https://arxiv.org/abs/2308.00310) accepted @ NeurIPS 2023
-* [Continual Learning Beyond a Single Model](https://arxiv.org/abs/2211.10445) accepted @ ICLR 2023
-* [Building a Subspace of Policies for Scalable Continual Learning](https://arxiv.org/abs/2202.09826) accepted @ CoLLAs 2023
+* [Continual Learning Beyond a Single Model](https://arxiv.org/abs/2211.10445) accepted @ CoLLAs 2023
+* [Building a Subspace of Policies for Scalable Continual Learning](https://arxiv.org/abs/2202.09826) accepted @ ICLR 2023 
 
 
 About me
