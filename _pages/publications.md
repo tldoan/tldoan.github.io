@@ -30,7 +30,7 @@ You can find my complete articles list on <u><a href="https://scholar.google.ca/
 
 * Mazoure B.; Tachet des Combes R.; **Doan, T.**; Bachman P.; Hjelm, R D.; Deep Reinforcement and InfoMax Learning. _[NeurIPS 2020]_
 
-* **Doan, T.**\*; Mazoure, B.; Durand, A.; Hjelm, R D.; Pineau, J.; Leveraging exploration in off-policy algorithms via normalizing flows. _[CoRL 2019]_
+* **Doan, T.**\*; Mazoure, B.\*; Durand, A.; Hjelm, R D.; Pineau, J.; Leveraging exploration in off-policy algorithms via normalizing flows. _[CoRL 2019]_
 
 * Monteiro, J.; Albuquerque, I., **Doan, T.**; Considine B., Falk T., Mitliagkas I.; Multi-objective training of Generative Adversarial Networks with multiple discriminators _[ICML 2019]_ 
 
