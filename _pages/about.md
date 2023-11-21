@@ -20,14 +20,21 @@ News
 
 About me
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am a research scientist at Bosch, where I focus on addressing Open-World problems such as Object Detection and Segmentation within the context of self-driving scenes. Additionally, I specialize in multimodal (Vision-Language) representation learning for lifelong learning
+
+Before joining Bosch, I was a postdoctoral researcher at [Mila](https://mila.quebec/en/) under the supervision of [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/). My research during this period centered on two key streams: developing a theoretical understanding of Catastrophic Forgetting and exploring the application of self-supervised learning in Reinforcement Learning.
+
+I earned my Ph.D. from McGill University where I delved into cutting-edge topics such as Generative Adversarial Networks (GANs), with a specific focus on addressing mode collapse problems. In tandem, I explored the realm of deep reinforcement learning, where I tackled exploration challenges by implementing innovative multimodal policies.
+
+
 
 Research Interests
 ======
-+  Vision-Language, Multimodality 
++  Vision-Language
 +  LLMs
-+  Representation Learning
++  Multimodal Representation Learning
 +  Lifelong Learning  
++  reinforcement learning
 
 
 Education
