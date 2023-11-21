@@ -22,13 +22,19 @@ About me
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
+Research Interests
+======
++  Vision-Language, Multimodality 
++  LLMs
++  Representation Learning
++  Lifelong Learning  
+
 
 Education
 ======
-<i class="fas fa-graduation-cap"></i>  McGill University
- 
-2. **PhD Operation Management** (2014-2019) - McGill university
-3. **MSc Applied Mathematics** (2012-2013) - University College London 
++  <i class="fas fa-graduation-cap"></i> **PhD Operation Management** (2014-2019) - McGill university
++  <i class="fas fa-graduation-cap"></i> **MSc Applied Mathematics** (2012-2013) - University College London 
++  <i class="fas fa-graduation-cap"></i> **Bsc Mechanical Engineering** (2010-2013) - Arts et Metiers ParisTech
 
 
 
