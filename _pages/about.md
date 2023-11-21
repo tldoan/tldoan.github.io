@@ -43,6 +43,10 @@ Education
 +  <i class="fas fa-graduation-cap"></i> **MSc Applied Mathematics** (2012-2013) - University College London 
 +  <i class="fas fa-graduation-cap"></i> **Bsc Mechanical Engineering** (2010-2013) - Arts et Metiers ParisTech
 
+Contact
+======
+doantl89 <at> gmail <dot> com
+
 
 
 
