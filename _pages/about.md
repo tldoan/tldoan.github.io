@@ -34,7 +34,7 @@ Research Interests
 +  LLMs
 +  Multimodal Representation Learning
 +  Lifelong Learning  
-+  reinforcement learning
++  Reinforcement learning
 
 
 Education
