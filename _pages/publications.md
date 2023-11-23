@@ -10,7 +10,7 @@ You can find my complete articles list on <u><a href="https://scholar.google.ca/
 
 {% include base_path %}
 
-_[Arxiv 2023]_ :  **Doan, T.**; Li, X.;  Behpour, S., Wenbin, H.; Gou L.; Ren L.; A Minimalist Multi-Modal Approach to Few-Shot Icremental Learning. 
+_[Arxiv 2023]_ :  **Doan, T.**; Li, X.;  Behpour, S., Wenbin, H.; Gou L.; Ren L.; A Minimalist Multi-Modal Approach to Few-Shot Incremental Learning. 
 
 _[NeurIPS 2023]_ : Behpour, S.; **Doan, T.**; Li, X.;  Wenbin, H.; Gou L.; Ren L.; GradOrth: A Simple yet Efficient Out-of-Distribution Detection with Orthogonal Projection of Gradients. 
 
@@ -34,4 +34,4 @@ _[CoRL 2019]_ : **Doan, T.**\*; Mazoure, B.\*; Durand, A.; Hjelm, R D.; Pineau, 
 
 _[ICML 2019]_ : Monteiro, J.; Albuquerque, I., **Doan, T.**; Considine B., Falk T., Mitliagkas I.; Multi-objective training of Generative Adversarial Networks with multiple discriminators.  
 
-_[AAAI 2019]_ : **Doan, T.**; Monteiro, J.; Albuquerque, I.; Mazoure, B.; Durand, A.; Hjelm, R D.; Pineau, J. On-line Adaptative Curriculum Learning for GANs. 
+_[AAAI 2019]_ : **Doan, T.**; Monteiro, J.; Albuquerque, I.; Mazoure, B.; Durand, A.; Hjelm, R D.; Pineau, J.; On-line Adaptative Curriculum Learning for GANs. 
