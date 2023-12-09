@@ -10,13 +10,13 @@ You can find my complete articles list on <u><a href="https://scholar.google.ca/
 
 {% include base_path %}
 
+_[AAAI 2024]_ : **Doan, T.**; Li, X.;  Behpour, S., Wenbin, H.; Gou L.; Ren L.; Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection.
+
 _[Arxiv 2023]_ :  **Doan, T.**; Li, X.;  Behpour, S., Wenbin, H.; Gou L.; Ren L.; A Minimalist Multi-Modal Approach to Few-Shot Incremental Learning. 
 
 _[NeurIPS 2023]_ : Behpour, S.; **Doan, T.**; Li, X.;  Wenbin, H.; Gou L.; Ren L.; GradOrth: A Simple yet Efficient Out-of-Distribution Detection with Orthogonal Projection of Gradients. 
 
 _[NeurIPS 2023]_ : Li, X.; Behpour, S.; **Doan, T.**; Wenbin, H.; Gou L.; Ren L.; UP-DP: Unsupervised Prompt Learning for Data Pre-Selection with Vision-Language Models. 
-
-_[Arxiv 2023]_ : **Doan, T.**; Li, X.;  Behpour, S., Wenbin, H.; Gou L.; Ren L.; Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection.
 
 _[ICLR 2023]_ : Gaya, J.; **Doan, T.**; Caccia, L., Soulier L.; Denoyer L. ; Raileanu, R.; Building a Subspace of Policies for Scalable Continual Learning. 
 
