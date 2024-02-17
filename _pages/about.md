@@ -9,12 +9,15 @@ author_profile: true
 
 News
 ======
-* [Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection](https://arxiv.org/abs/2306.14291) accepted  @ AAAI 2024
-* [UP-DP: Unsupervised Prompt Learning for Data Pre-Selection with Vision-Language Models](https://arxiv.org/abs/2307.11227) accepted  @ Neurips 2023
-* [GradOrth: A Simple yet Efficient Out-of-Distribution Detection with Orthogonal Projection of Gradients](https://arxiv.org/abs/2308.00310) accepted @ NeurIPS 2023
-* [Continual Learning Beyond a Single Model](https://arxiv.org/abs/2202.09826) accepted @ CoLLAs 2023
-* [Building a Subspace of Policies for Scalable Continual Learning](https://arxiv.org/abs/2211.10445) accepted @ ICLR 2023 
-
+* [Hyp-OW @ AAAI 2024](https://arxiv.org/abs/2306.14291) <a href="https://github.com/boschresearch/Hyp-OW"><span style="color: Blue">[Code]</span></a>
+<a href="https://github.com/boschresearch/Hyp-OW/blob/main/img/Poster_Hyp_AAAI.pdf"><span style="color: Blue">[Poster]</span></a>
+<a href="https://www.youtube.com/watch?v=dXaF0WpNFlA"><span style="color: Blue">[Video]</span> </a>
+* [UP-DP @ NeurIPS 2023](https://arxiv.org/abs/2307.11227)
+<a href="https://nips.cc/media/PosterPDFs/NeurIPS%202023/71462.png?t=1702084805.256249"><span style="color: Blue">[Poster]</span></a>
+<a href="https://nips.cc/virtual/2023/poster/71462"><span style="color: Blue">[Video]</span></a>
+* [GradOrth @ NeurIPS 2023](https://arxiv.org/abs/2308.00310) 
+<a href="https://nips.cc/media/PosterPDFs/NeurIPS%202023/71976.png?t=1702088393.6295724"><span style="color: Blue">[Poster]</span></a>
+<a href="https://nips.cc/virtual/2023/poster/71976"><span style="color: Blue">[Video]</span></a>
 
 About me
 ======
