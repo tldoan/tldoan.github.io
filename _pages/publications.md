@@ -29,6 +29,8 @@ You can find my complete articles list on <u><a href="https://scholar.google.ca/
 <a href="https://nips.cc/virtual/2023/poster/71462"><span style="color: Blue">[Video]</span></a>
 
 <span style="color:MediumVioletRed">[ICLR 2023]</span> : Gaya, J.; **Doan, T.**; Caccia, L., Soulier L.; Denoyer L. ; Raileanu, R.; Building a Subspace of Policies for Scalable Continual Learning. 
+<br>
+<a href="https://github.com/facebookresearch/salina/tree/main/salina_cl"><span style="color: Blue">[Code]</span></a> <a href="https://iclr.cc/virtual/2023/oral/12549"><span style="color: Blue">[Video]</span> </a>
 
 <span style="color:MediumVioletRed">[CoLLAs 2023]</span>: **Doan, T.**;  Mirzadeh, I. ; Farajtabar, M.; Continual Learning Beyond a Single Model. 
 
