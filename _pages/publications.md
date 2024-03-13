@@ -10,13 +10,14 @@ You can find my complete articles list on <u><a href="https://scholar.google.ca/
 
 {% include base_path %}
 
+<span style="color:MediumVioletRed">[CVPR 2024]</span> : Wang X.; He W.; Xuan X.; Sebastian C.; Ono J.; Li X.; Behpour S.; **Doan, T.**; GouL.; Wei Shen H.; Ren L.; USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation
+
 <span style="color:MediumVioletRed">[AAAI 2024]</span> : **Doan, T.**; Li, X.;  Behpour, S., Wenbin, H.; Gou L.; Ren L.; Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection.
 <br>
 <a href="https://github.com/boschresearch/Hyp-OW"><span style="color: Blue">[Code]</span></a>
 <a href="https://github.com/boschresearch/Hyp-OW/blob/main/img/Poster_Hyp_AAAI.pdf"><span style="color: Blue">[Poster]</span></a>
 <a href="https://www.youtube.com/watch?v=dXaF0WpNFlA"><span style="color: Blue">[Video]</span> </a>
 
-<span style="color:MediumVioletRed">[Arxiv 2023]</span> :  **Doan, T.**; Li, X.;  Behpour, S., Wenbin, H.; Gou L.; Ren L.; A Minimalist Multi-Modal Approach to Few-Shot Incremental Learning. 
 
 <span style="color:MediumVioletRed">[NeurIPS 2023]</span> : Behpour, S.; **Doan, T.**; Li, X.;  Wenbin, H.; Gou L.; Ren L.; GradOrth: A Simple yet Efficient Out-of-Distribution Detection with Orthogonal Projection of Gradients. 
 <br>
