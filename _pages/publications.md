@@ -37,7 +37,7 @@ You can find my complete articles list on <u><a href="https://scholar.google.ca/
 
 <span style="color:MediumVioletRed">[JAIR 2022]</span> : **Doan, T.**\*; Mazoure, B.\*; Pineau, J.; Precup,  D.; Rabusseau, G.; Low-Rank Representation of Reinforcement Learning Policies. 
 
-<span style="color:MediumVioletRed">[AISTATS 2021]</span> : **Doan, T.**; Bennani, M.; Bogdan, M.; Rabusseau, G.; Alquier, P., A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix. 
+<span style="color:MediumVioletRed">[AISTATS 2021]</span> : **Doan, T.**; Bennani, M.; mazoure, B.; Rabusseau, G.; Alquier, P., A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix. 
 
 <span style="color:MediumVioletRed">[ICLR 2021]</span> : Jeon, W; Chen-Yan, S.; Barde, P.; **Doan, T.**;  Nowrouzezahrai, D.; Pineau, J.; Regularized Inverse Reinforcement Learning. 
 
