@@ -39,7 +39,9 @@ You can find my complete articles list on <u><a href="https://scholar.google.ca/
 
 <span style="color:MediumVioletRed">[AISTATS 2021]</span> : **Doan, T.**; Bennani, M.; Mazoure, B.; Rabusseau, G.; Alquier, P., A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix. 
 
-<span style="color:MediumVioletRed">[ICLR 2021]</span> : Jeon, W; Chen-Yan, S.; Barde, P.; **Doan, T.**;  Nowrouzezahrai, D.; Pineau, J.; Regularized Inverse Reinforcement Learning. 
+<span style="color:MediumVioletRed">[ICLR 2021]</span> : Jeon, W; Chen-Yan, S.; Barde, P.; **Doan, T.**;  Nowrouzezahrai, D.; Pineau, J.; Regularized Inverse Reinforcement Learning.
+
+<span style="color:MediumVioletRed">[CBM 2021]</span> : Abdar, M.; Samami, M.; Mahmoodabad, S; **Doan, T**; Mazoure, B; Hashemifesharaki, R.; Liu L.; Khosravi, A; Acharya; U.; Makarenkov, V.; Nahavandi, S; Uncertainty quantification in skin cancer classification using three-way decision-based Bayesian deep learning.  
 
 <span style="color:MediumVioletRed">[NeurIPS 2020]</span> : Mazoure B.; Tachet des Combes R.; **Doan, T.**; Bachman P.; Hjelm, R D.; Deep Reinforcement and InfoMax Learning. 
 
