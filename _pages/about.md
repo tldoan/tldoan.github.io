@@ -9,6 +9,7 @@ author_profile: true
 
 News
 ======
+* I just joined Snorkel AI as a Staff Applied Research Scientist!
 * USE @ CVPR 2024
 * [Hyp-OW @ AAAI 2024](https://arxiv.org/abs/2306.14291) <a href="https://github.com/boschresearch/Hyp-OW"><span style="color: Blue">[Code]</span></a>
 <a href="https://github.com/boschresearch/Hyp-OW/blob/main/img/Poster_Hyp_AAAI.pdf"><span style="color: Blue">[Poster]</span></a>
