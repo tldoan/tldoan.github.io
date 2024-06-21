@@ -9,17 +9,9 @@ author_profile: true
 
 News
 ======
-* I recently joined Snorkel AI as a Staff Applied Research Scientist!
-* USE @ CVPR 2024
-* [Hyp-OW @ AAAI 2024](https://arxiv.org/abs/2306.14291) <a href="https://github.com/boschresearch/Hyp-OW"><span style="color: Blue">[Code]</span></a>
-<a href="https://github.com/boschresearch/Hyp-OW/blob/main/img/Poster_Hyp_AAAI.pdf"><span style="color: Blue">[Poster]</span></a>
-<a href="https://www.youtube.com/watch?v=dXaF0WpNFlA"><span style="color: Blue">[Video]</span> </a>
-* [UP-DP @ NeurIPS 2023](https://arxiv.org/abs/2307.11227)
-<a href="https://nips.cc/media/PosterPDFs/NeurIPS%202023/71462.png?t=1702084805.256249"><span style="color: Blue">[Poster]</span></a>
-<a href="https://nips.cc/virtual/2023/poster/71462"><span style="color: Blue">[Video]</span></a>
-* [GradOrth @ NeurIPS 2023](https://arxiv.org/abs/2308.00310) 
-<a href="https://nips.cc/media/PosterPDFs/NeurIPS%202023/71976.png?t=1702088393.6295724"><span style="color: Blue">[Poster]</span></a>
-<a href="https://nips.cc/virtual/2023/poster/71976"><span style="color: Blue">[Video]</span></a>
+* got my EB1-A Green Card application approved ! (feel free to reach me if you want feedback)
+* recently joined Snorkel AI as a Staff Applied Research Scientist!
+* [USE](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.html) @ CVPR 2024
 
 About me
 ======
