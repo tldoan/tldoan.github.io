@@ -9,7 +9,7 @@ author_profile: true
 
 News
 ======
-* got my EB1-A Green Card application approved ! (feel free to reach me if you want feedback)
+* got my I-140 (EB1-A) application approved ! (feel free to reach me if you want feedback)
 * recently joined Snorkel AI as a Staff Applied Research Scientist!
 * [USE](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.html) @ CVPR 2024
 
