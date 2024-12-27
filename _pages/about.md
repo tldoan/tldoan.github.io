@@ -16,9 +16,9 @@ News
 
 About me
 ======
-I am a Staff Applied Research Scientist at Snorkel AI, leveraging generative models for dataset generation & captions in the retail industry context.
+I am a Staff Applied Research Scientist at Snorkel AI, working with Vision Large Language Models (VLLMs) for Composed Image Retrieval in the context of online retail. My second area of focus revolves around leveraging LLMs for synthetic dataset generation.
 
-Prior to that I was a research scientist at Bosch, where I focus on addressing Open-World problems such as Object Detection and Segmentation within the context of self-driving scenes. Additionally, I specialize in multimodal (Vision-Language) representation learning for lifelong learning
+Prior to that, I was a Research Scientist at Bosch, where I focused on addressing Open-World problems such as Object Detection and Segmentation within the context of self-driving scenes. Additionally, I specialized in multimodal (Vision-Language) representation learning for lifelong learning.
 
 Before joining Bosch, I was a postdoctoral researcher at [Mila](https://mila.quebec/en/) under the supervision of [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/). My research during this period centered on two key streams: developing a theoretical understanding of Catastrophic Forgetting and exploring the application of self-supervised learning in Reinforcement Learning.
 
