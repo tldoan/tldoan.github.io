@@ -10,10 +10,11 @@ You can find my complete articles list on <u><a href="https://scholar.google.ca/
 
 {% include base_path %}
 
-<span style="color:MediumVioletRed">[ECCV 2024]</span> : Su S.; Lin X.; **Doan, T.**; Behpour S.; He W.; Gou L.; Miao F.; Ren L.; MetaAT: Active Testing for Label-Efficient Evaluation of Dense Recognition Tasks
+<span style="color:MediumVioletRed">[ECCV 2024]</span> : Su S.; Lin X.; **Doan, T.**; Behpour S.; He W.; Gou L.; Miao F.; Ren L.; MetaAT: Active Testing for Label-Efficient Evaluation of Dense Recognition Tasks.
+<br>
+<a href="https://eccv.ecva.net/virtual/2024/poster/1535"><span style="color: Blue">[Video]</span></a>
 
-
-<span style="color:MediumVioletRed">[CVPR 2024]</span> : Wang X.; He W.; Xuan X.; Sebastian C.; Ono J.; Li X.; Behpour S.; **Doan, T.**; Gou L.; Wei Shen H.; Ren L.; USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation
+<span style="color:MediumVioletRed">[CVPR 2024]</span> : Wang X.; He W.; Xuan X.; Sebastian C.; Ono J.; Li X.; Behpour S.; **Doan, T.**; Gou L.; Wei Shen H.; Ren L.; USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation.
 <br>
 <a href="https://www.youtube.com/watch?v=kC_xfDJXBuE"><span style="color: Blue">[Video]</span></a>
 
