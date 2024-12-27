@@ -10,7 +10,7 @@ author_profile: true
 News
 ======
 * MetaAT @ ECCV 2024
-* got my I-140 (EB1-A) application approved ! (feel free to reach me if you want feedback)
+* got my I-140 (EB1-A) application approved! (feel free to reach me if you want feedback)
 * recently joined Snorkel AI as a Staff Applied Research Scientist!
 
 
@@ -28,8 +28,8 @@ I earned my Ph.D. from McGill University where I delved into cutting-edge topics
 
 Research Interests
 ======
-+  Vision-Language
-+  LLMs
++  Vision Language Model
++  Large Language Model
 +  Multimodal Representation Learning
 +  Lifelong Learning  
 +  Reinforcement learning
