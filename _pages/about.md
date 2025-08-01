@@ -9,14 +9,13 @@ author_profile: true
 
 News
 ======
-* MetaAT @ ECCV 2024
-* got my I-140 (EB1-A) application approved! (feel free to reach me if you want feedback)
-* recently joined Snorkel AI as a Staff Applied Research Scientist!
+* Received my EB1-A Green card! (feel free to reach me if you want feedback)
+* More to come soon
 
 
 About me
 ======
-I am a Staff Applied Research Scientist at Snorkel AI, working with Vision Large Language Models (VLLMs) for Composed Image Retrieval in the context of online retail. My second area of focus revolves around leveraging LLMs for synthetic dataset generation.
+I was a Staff Applied Research Scientist at Snorkel AI, working with Vision Large Language Models (VLLMs) for Composed Image Retrieval in the context of online retail. My second area of focus revolves around leveraging LLMs for synthetic dataset generation.
 
 Prior to that, I was a Research Scientist at Bosch, where I focused on addressing Open-World problems such as Object Detection and Segmentation within the context of self-driving scenes. Additionally, I specialized in multimodal (Vision-Language) representation learning for lifelong learning.
 
