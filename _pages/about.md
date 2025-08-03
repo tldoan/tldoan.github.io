@@ -9,8 +9,8 @@ author_profile: true
 
 News
 ======
-* Received my EB1-A Green card! (feel free to reach me if you want feedback)
-* More to come soon
+* Received my Green card (EB1-A), feel free to reach out if you need feedback.
+* More to come soon !
 
 
 About me
