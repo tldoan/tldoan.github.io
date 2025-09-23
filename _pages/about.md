@@ -9,12 +9,12 @@ author_profile: true
 
 News
 ======
-* Received my Green card (EB1-A), feel free to reach out if you need feedback.
+* I recently joined Oracle (OCI) as a Principal Applied Scientist!
 
 
 About me
 ======
-I am a Staff Applied Research Scientist at Snorkel AI, working with Vision Large Language Models (VLLMs) for Composed Image Retrieval in the context of online retail. My second area of focus revolves around leveraging LLMs for synthetic dataset generation.
+I am a Principal Applied Scientist at Oracle working on Multimodal GenAI.
 
 Prior to that, I was a Research Scientist at Bosch, where I focused on addressing Open-World problems such as Object Detection and Segmentation within the context of self-driving scenes. Additionally, I specialized in multimodal (Vision-Language) representation learning for lifelong learning.
 
