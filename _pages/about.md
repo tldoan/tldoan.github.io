@@ -14,7 +14,9 @@ News
 
 About me
 ======
-I am a Principal Applied Scientist at Oracle working on Multimodal GenAI.
+I am a Principal Applied Scientist at Oracle  (OCI Science team) working on Multimodal GenAI eval.
+
+I was a Staff Applied Research Scientist at Snorkel AI, where I worked on synthetic data generation to evaluate the reasoning capabilities and knowledge grounding of large language models (LLMs), as well as on search and retrieval systems for online fashion retail applications.
 
 Prior to that, I was a Research Scientist at Bosch, where I focused on addressing Open-World problems such as Object Detection and Segmentation within the context of self-driving scenes. Additionally, I specialized in multimodal (Vision-Language) representation learning for lifelong learning.
 
