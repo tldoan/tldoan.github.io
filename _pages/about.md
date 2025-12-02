@@ -24,15 +24,15 @@ Before joining Bosch, I was a postdoctoral researcher at [Mila](https://mila.que
 
 I earned my Ph.D. from McGill University where I delved into cutting-edge topics such as Generative Adversarial Networks (GANs), with a specific focus on addressing mode collapse problems. In tandem, I explored the realm of deep reinforcement learning, where I tackled exploration challenges by implementing innovative multimodal policies.
 
-I am open to research collaborations with students interested in multimodal GenAI evaluation or related areas. Feel free to reach out with a brief outline of your project idea.
+I am open to research collaborations with students interested in multimodal GenAI evaluation or related areas. Feel free to reach out with a <u>brief outline of your project idea</u>.
 
 Research Interests
 ======
 +  Vision Language Model
 +  Large Language Model
-+  Multimodal Representation Learning
++  Multimodal Evaluation
 +  Lifelong Learning  
-+  Reinforcement learning
+
 
 
 Education
