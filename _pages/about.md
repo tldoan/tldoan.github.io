@@ -14,7 +14,7 @@ News
 
 About me
 ======
-I am a Principal Applied Scientist at Oracle  (OCI Science team) working on Multimodal GenAI eval.
+I am open to research collaborations with students interested in multimodal GenAI evaluation or related areas. Feel free to reach out with a <u>brief outline of your project idea</u>.
 
 I was a Staff Applied Research Scientist at Snorkel AI, where I worked on synthetic data generation to evaluate the reasoning capabilities and knowledge grounding of large language models (LLMs), as well as on search and retrieval systems for online fashion retail applications.
 
@@ -24,7 +24,6 @@ Before joining Bosch, I was a postdoctoral researcher at [Mila](https://mila.que
 
 I earned my Ph.D. from McGill University where I delved into cutting-edge topics such as Generative Adversarial Networks (GANs), with a specific focus on addressing mode collapse problems. In tandem, I explored the realm of deep reinforcement learning, where I tackled exploration challenges by implementing innovative multimodal policies.
 
-I am open to research collaborations with students interested in multimodal GenAI evaluation or related areas. Feel free to reach out with a <u>brief outline of your project idea</u>.
 
 Research Interests
 ======
